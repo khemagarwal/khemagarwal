@@ -5,8 +5,8 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on Flutter projects
-- 🌱 I’m currently learning Pytorch
-- 👯 I’m looking to collaborate on Projects and Hackathons
-- 🤔 I’m looking for help with Open Source and CP
+- 🌱 I’m an Android Developer
+- 👯 I’m looking to collaborate on Projects
+- 🤔 I’m looking for help with Open Source and Competetive Programming
 - 💬 Ask me about anything
-- ⚡ Fun fact: I am a coder 
+
