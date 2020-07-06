@@ -1,18 +1,12 @@
+
+[![linkedin badge](https://img.shields.io/badge/Khem_Agarwal-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/khem-agarwal-93357b123/)
+[![twitter badge](https://img.shields.io/badge/@khem__agarwal-30302f?style=flat&logo=twitter)](https://twitter.com/khem__agarwal)
+[![hackerrank badge](https://img.shields.io/badge/Khem_Agarwal-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/khemagarwal1)
+
 ### Hi there 👋
-
-<!--
-**khemagarwal/khemagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<button>hello</button>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Flutter projects
+- 🌱 I’m currently learning Pytorch
+- 👯 I’m looking to collaborate on Projects and Hackathons
+- 🤔 I’m looking for help with Open Source and CP
+- 💬 Ask me about anything
+- ⚡ Fun fact: I am a coder 
